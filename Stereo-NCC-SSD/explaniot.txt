@@ -1,0 +1,2 @@
+disparity ranges : 0 - 24
+disparity scale  : 8
